@@ -37,7 +37,7 @@ Automate your **daily reward claiming** on Billions.Network using multiple accou
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/cryptodai3/Billions-Automation-CDY.git
+git clone https://github.com/DalleDai/Billions-Automation-CDY.git
 ```
 
 2. **Navigate into folder:**
